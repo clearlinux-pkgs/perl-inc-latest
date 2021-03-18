@@ -4,7 +4,7 @@
 #
 Name     : perl-inc-latest
 Version  : 0.500
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/inc-latest-0.500.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/inc-latest-0.500.tar.gz
 Summary  : 'use modules bundled in inc/ if they are newer than installed ones'
@@ -98,5 +98,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/inc/latest.pm
-/usr/lib/perl5/vendor_perl/5.30.3/inc/latest/private.pm
+/usr/lib/perl5/vendor_perl/5.32.1/inc/latest.pm
+/usr/lib/perl5/vendor_perl/5.32.1/inc/latest/private.pm
