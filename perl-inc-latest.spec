@@ -4,7 +4,7 @@
 #
 Name     : perl-inc-latest
 Version  : 0.500
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/inc-latest-0.500.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/inc-latest-0.500.tar.gz
 Summary  : 'use modules bundled in inc/ if they are newer than installed ones'
